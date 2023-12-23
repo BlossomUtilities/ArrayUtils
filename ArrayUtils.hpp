@@ -7,7 +7,7 @@ namespace Blossom::Utils {
     /**
      * @class Array
      *
-     * @brief Makes working with arrays easier.
+     * @brief A collection of utils for easier work with arrays.
      */
     class Array {
         public:
